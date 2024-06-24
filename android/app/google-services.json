@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "710686474092",
+    "project_id": "projekt-mobilne-d98af",
+    "storage_bucket": "projekt-mobilne-d98af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710686474092:android:990548cdf54d38bcdfbd49",
+        "android_client_info": {
+          "package_name": "com.example.to_do_list"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710686474092-b6l803gem45po94iat16s4qnlqojl5u2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.to_do_list",
+            "certificate_hash": "75acf8cdb7ee00ab6a271b8ab48d4ee6c69449a4"
+          }
+        },
+        {
+          "client_id": "710686474092-v7v4b4i1569j3125ngsl7jevead794gq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClCmRjYIhXSjAi4pVbaqwgpmGXbY3bNhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710686474092-sukc693tt68dblhnqiio2sufhc9ke14j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "710686474092-4co7nvtge0nnbta4sj5igm40jh3n1i59.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.toDoList"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
